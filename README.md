@@ -4,6 +4,9 @@
   <p><strong>Intelligent CSV to CRM Pipeline powered by Next.js, Node.js, and Groq (Llama-3.3-70B)</strong></p>
   
   <p>
+    🟢 <strong>Live Application:</strong> <a href="https://groweasy-ai-crm-importer.vercel.app/">https://groweasy-ai-crm-importer.vercel.app/</a>
+  </p>
+  <p>
     <a href="./documentation.md"><strong>📚 Read the Architecture & Documentation</strong></a>
   </p>
 </div>
