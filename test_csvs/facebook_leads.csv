@@ -1,0 +1,6 @@
+full_name,email_address,phone_number,company_name,location,lead_status,remarks
+John Smith,john.smith@example.com,+919876543210,TechCorp,Mumbai,Interested,"Wants a demo next week"
+Jane Doe,jane.doe@example.com,9123456789,StartupXYZ,Delhi,Not Interested,"Already using competitor product"
+Raj Kumar,raj.kumar@example.com,,Real Estate Co,Bangalore,Busy,"Will call back tomorrow"
+No Contact Person,,,SomeCompany,Chennai,Unknown,""
+Alice Brown,alice@test.com,+18005550100,Global Corp,New York,Closed Deal,"Contract signed"

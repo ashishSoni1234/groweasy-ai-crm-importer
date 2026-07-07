@@ -1,0 +1,16 @@
+# Root .gitignore
+.env
+.env.local
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+.idea/
+*.swp
+
+# Temporary
+assignment_text.txt
+Assignment.pdf

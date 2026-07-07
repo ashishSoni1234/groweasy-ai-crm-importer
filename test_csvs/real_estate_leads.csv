@@ -1,0 +1,6 @@
+First Name,Last Name,Email,Mobile,City,State,Country,Source,Notes,Owner,Status
+Priya,Singh,priya.singh@example.com,9876543213,Pune,Maharashtra,India,sarjapur_plots,"Interested in 2BHK",agent1@groweasy.com,GOOD_LEAD_FOLLOW_UP
+Rahul,Sharma,,9111222333,Delhi,Delhi,India,meridian_tower,"No email provided",agent2@groweasy.com,DID_NOT_CONNECT
+,,,,,,,,,, 
+Suresh,Patel,suresh@startup.in,+917001234567,Ahmedabad,Gujarat,India,eden_park,"Looking for plot",agent3@groweasy.com,SALE_DONE
+Kavya,Reddy,kavya.r@gmail.com,kavya.r2@yahoo.com,Hyderabad,Telangana,India,,Multiple email test,agent1@groweasy.com,BAD_LEAD
